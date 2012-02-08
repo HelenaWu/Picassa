@@ -1,0 +1,72 @@
+Name:Helena Wu
+
+Date Started: Jan 13th, 2012
+Date Completed: Feb 7th, 2012
+
+Discussion: Trevor Narayan (UTA), Wendy Yin, Sterling Dorminey
+Resources: Java API, GoF Design Pattern
+
+File Started: 
+/src/Main.java
+/src/tests/ParserTest.java
+/src/view/Frame.java
+/src/model/Expressions
+/src/model/Model.java
+/src/model/Parser.java
+/src/model/ParserException.java
+/src/model/Pixmap.java
+/src/model/RGBColor.java
+/src/model/Expressions/Expression.java
+/src/model/Expressions/PlusExp.java
+/src/model/Expressions/MinusExp.java
+/src/model/Expressions/MulExp.java
+/src/model/Expressions/DivExp.java
+
+Files Included: 
+/src/Main.java
+/src/tests/ParserTest.java
+/src/view/Frame.java
+/src/model/Expressions
+/src/model/Model.java
+/src/model/Parser.java
+/src/model/ParserException.java
+/src/model/Pixmap.java
+/src/model/RGBColor.java
+/src/model/util/ColorCombinations.java
+/src/model/util/ColorModel.java
+/src/model/util/PerlinNoise.java
+/src/model/Expressions/AbsExp.java
+/src/model/Expressions/AllOps.java
+/src/model/Expressions/ATanExp.java
+/src/model/Expressions/AvgExp.java
+/src/model/Expressions/CeilExp.java
+/src/model/Expressions/ClampExp.java
+/src/model/Expressions/ColorExp.java
+/src/model/Expressions/CosExp.java
+/src/model/Expressions/DivExp.java
+/src/model/Expressions/ExpoExp.java
+/src/model/Expressions/Expression.java
+/src/model/Expressions/FloorExp.java
+/src/model/Expressions/IfExp.java
+/src/model/Expressions/LetExp.java
+/src/model/Expressions/LogExp.java
+/src/model/Expressions/MaxExp.java
+/src/model/Expressions/MinExp.java
+/src/model/Expressions/MinusExp.java
+/src/model/Expressions/ModExp.java
+/src/model/Expressions/MulExp.java
+/src/model/Expressions/NegExp.java
+/src/model/Expressions/NumberExpression.java
+/src/model/Expressions/ParenExpression.java
+/src/model/Expressions/PerlinBWExp.java
+/src/model/Expressions/PerlinColorExp.java
+/src/model/Expressions/PlusExp.java
+/src/model/Expressions/ProdExp.java
+/src/model/Expressions/RandExp.java
+/src/model/Expressions/RgbToYCrCbExp.java
+/src/model/Expressions/SinExp.java
+/src/model/Expressions/SumExp.java
+/src/model/Expressions/TanExp.java
+/src/model/Expressions/VariableExpression.java
+/src/model/Expressions/WrapExp.java
+/src/model/Expressions/YCrCbtoRGBExp.java
